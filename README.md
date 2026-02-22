@@ -13,7 +13,6 @@ To capture and analyze network packets using Wireshark.
 - HTTP
 - DNS
 - TCP
-- ICMP
 
 ## Key Observations
 
@@ -28,8 +27,6 @@ To capture and analyze network packets using Wireshark.
 ### TCP
 - Observed 3-Way Handshake (SYN, SYN-ACK, ACK)
 
-### ICMP
-- Echo request and reply packets captured
 
 ## Skills Demonstrated
 - Network Traffic Analysis
